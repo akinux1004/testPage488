@@ -1,0 +1,31 @@
+	<li>
+		<div class="comments-list">
+			<div class="media">
+			              
+				<p class="pull-right"><small>5 days ago</small></p>
+				<a class="media-left" href="#">
+				  <img src="http://lorempixel.com/40/40/people/1/">
+				</a>
+				<div class="media-body">
+				    
+					<h4 class="media-heading user_name">Baltej Singh</h4>
+					Wow! this is really great.   
+					 
+					<div>
+						<small><a href="">Like</a> - <a href="">Share</a></small>
+						  
+						<button type="button" class="btn btn-primary btn-xs" title="Edit">
+						    <span class="glyphicon glyphicon-pencil"></span>
+						</button>
+						<button type="button" class="btn btn-success btn-xs" title="Approved">
+						    <span class="glyphicon glyphicon-ok"></span>
+						</button>
+						<button type="button" class="btn btn-danger btn-xs" title="Delete">
+						    <span class="glyphicon glyphicon-trash"></span>
+						</button>
+					</div>
+				</div>
+			                   
+			</div>
+		</div>
+	</li>
